@@ -1,0 +1,1 @@
+projeto focado em desenvolver habilidades requisições e manupulação de DOM em JS
